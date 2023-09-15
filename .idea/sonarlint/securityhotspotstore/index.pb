@@ -9,13 +9,9 @@ Ehr-user/src/main/java/br/dev/simon/hruser/resources/UserResource.java,d/a/da34
 Nhr-oauth/src/main/java/br/dev/simon/hroauth/feignclients/UserFeignClients.java,f/f/ff3f15c239cf8439228a4a45b44abb55b153dfb5
 w
 Ghr-oauth/src/main/java/br/dev/simon/hroauth/resources/UserResource.java,7/3/733f3206a9a3d927692b90074544a42d6090b8bb
-
-Qhr-oauth/src/main/java/br/dev/simon/hroauth/config/AuthorizationServerConfig.java,9/6/96e105b27e09e44d8eb17c9c5168fe0a22d69aa9
 s
 Chr-oauth/src/main/java/br/dev/simon/hroauth/HrOauthApplication.java,7/7/77a26ba3fa22fe400a34172c8d06ea908a5c5f5f
 n
 >hr-oauth/src/main/java/br/dev/simon/hroauth/entities/User.java,f/8/f8d37378e27f5a467ce9e87c2d7c0a22f601ac51
 u
 Ehr-oauth/src/main/java/br/dev/simon/hroauth/services/UserService.java,5/e/5ebf7c0ee336a315ed1f688d09b6e425ef3f315d
-v
-Fhr-oauth/src/main/java/br/dev/simon/hroauth/config/SecurityConfig.java,1/d/1de2704a2a37a97f9222981475a90487a5a407f1
